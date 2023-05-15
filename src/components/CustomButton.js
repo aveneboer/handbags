@@ -10,5 +10,4 @@ function CustomButton(props) {
     );
 }
 
-
-export default App;
+export default CustomButton;
